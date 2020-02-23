@@ -7,8 +7,6 @@ A light-themed starter powered by [Gatsby v2](https://www.gatsbyjs.org) and [Pri
 
 ### 👩‍💻 [Demo website](http://prist.marguerite.io)
 
-test
-
 ## ✨ Features
 
 - Landing page with customizable Hero, Portfolio preview, and About component.
